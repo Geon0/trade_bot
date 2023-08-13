@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b99ccfef-794b-4ab0-975c-6d33daba7d0a" name="변경" comment="comit">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scratch/accessToken" afterDir="false" />
+    <list default="true" id="b99ccfef-794b-4ab0-975c-6d33daba7d0a" name="변경" comment="인증 및 주식 조회 추가">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/routes/tradeController.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/tradeController.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -22,9 +20,16 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "history": [
+    {
+      "author": "Geon0"
+    },
+    {
+      "state": "OPEN"
+    }
+  ],
   "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Geon0"
+    "state": "OPEN"
   }
 }]]></component>
   <component name="GithubPullRequestsUISettings">
@@ -53,11 +58,52 @@
       <option name="project" value="LOCAL" />
       <updated>1691940823265</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="gitignore">
+      <option name="closed" value="true" />
+      <created>1691941019382</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1691941019382</updated>
+    </task>
+    <task id="LOCAL-00003" summary="인증 및 주식 조회 추가">
+      <option name="closed" value="true" />
+      <created>1691941264829</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1691941264829</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="comit" />
-    <option name="LAST_COMMIT_MESSAGE" value="comit" />
+    <MESSAGE value="gitignore" />
+    <MESSAGE value="인증 및 주식 조회 추가" />
+    <option name="LAST_COMMIT_MESSAGE" value="인증 및 주식 조회 추가" />
   </component>
 </project>
